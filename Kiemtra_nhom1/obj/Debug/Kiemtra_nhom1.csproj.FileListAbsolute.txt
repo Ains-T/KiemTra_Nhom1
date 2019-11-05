@@ -1,0 +1,12 @@
+C:\Users\Dell\source\repos\Kiemtra_nhom1\Kiemtra_nhom1\bin\Debug\Kiemtra_nhom1.exe.config
+C:\Users\Dell\source\repos\Kiemtra_nhom1\Kiemtra_nhom1\bin\Debug\Kiemtra_nhom1.exe
+C:\Users\Dell\source\repos\Kiemtra_nhom1\Kiemtra_nhom1\bin\Debug\Kiemtra_nhom1.pdb
+C:\Users\Dell\source\repos\Kiemtra_nhom1\Kiemtra_nhom1\obj\Debug\Kiemtra_nhom1.csprojAssemblyReference.cache
+C:\Users\Dell\source\repos\Kiemtra_nhom1\Kiemtra_nhom1\obj\Debug\Kiemtra_nhom1.Form1.resources
+C:\Users\Dell\source\repos\Kiemtra_nhom1\Kiemtra_nhom1\obj\Debug\Kiemtra_nhom1.Properties.Resources.resources
+C:\Users\Dell\source\repos\Kiemtra_nhom1\Kiemtra_nhom1\obj\Debug\Kiemtra_nhom1.csproj.GenerateResource.cache
+C:\Users\Dell\source\repos\Kiemtra_nhom1\Kiemtra_nhom1\obj\Debug\Kiemtra_nhom1.csproj.CoreCompileInputs.cache
+C:\Users\Dell\source\repos\Kiemtra_nhom1\Kiemtra_nhom1\obj\Debug\Kiemtra_nhom1.exe
+C:\Users\Dell\source\repos\Kiemtra_nhom1\Kiemtra_nhom1\obj\Debug\Kiemtra_nhom1.pdb
+C:\Users\Dell\source\repos\Kiemtra_nhom1\Kiemtra_nhom1\bin\Debug\data\db_nhom.data
+C:\Users\Dell\source\repos\Kiemtra_nhom1\Kiemtra_nhom1\bin\Debug\data\db_lienlac.data
